@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Parking System</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Parking Ticket</string>
+    <string name="nav_header_subtitle">ticket@banana.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Update">Update</string>
+    <string name="Confirm_password">Confirm Password</string>
+    <string name="update">Update</string>
+    <string name="demomail_banana_com">demomail@banana.com</string>
+
+    <string name="action_save">Save</string>
+
+    <string-array name="vcolor">
+        <item>White</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Chrome</item>
+        <item>Green Camo</item>
+        <item>Pink</item>
+    </string-array>
+
+    <string-array name="lane">
+        <item>Lane A</item>
+        <item>Lane B</item>
+        <item>Lane C</item>
+        <item>Lane D</item>
+        <item>Lane E</item>
+        <item>Lane F</item>
+        <item>Lane G</item>
+        <item>Lane H</item>
+    </string-array>
+
+    <string-array name="position">
+        <item>P1</item>
+        <item>P2</item>
+        <item>P3</item>
+        <item>P4</item>
+        <item>P5</item>
+        <item>P6</item>
+        <item>P7</item>
+        <item>P8</item>
+    </string-array>
+
+    <string-array name="paymethod">
+        <item>Credit Card</item>
+        <item>Debit Card</item>
+        <item>Cash</item>
+    </string-array>
+</resources>
